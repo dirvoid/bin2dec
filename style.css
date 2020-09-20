@@ -1,0 +1,12 @@
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+
+}
+#content {
+  background-color: blue;
+  align-self: center;
+  align-content: center;
+  align-items: center
+}
